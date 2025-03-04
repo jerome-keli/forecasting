@@ -14,7 +14,7 @@ Source: Kaggle - Microsoft Stock Time Series Analysis
 
 Data Used: Daily stock prices of Microsoft, including features such as Date, Open, Close, High, Low, and Volume.
 
-## **Tools and Technologie*+s
+## **Tools and Technologies**
 
 * Python
 
